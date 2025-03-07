@@ -1,0 +1,40 @@
+.header {
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+:root {
+    --main-color:#303030;
+    --body:#2c2c2c;
+    --background-color:#e9e9e9;
+}
+body{
+    background-color: #e1e1e1;
+    background-position-x:center;
+}
+
+div style {
+    color: #fff;
+}
+.cabeca {
+    margin: 1px;
+    text-align: center;
+}
+
+.video {
+    margin: 1px;
+    text-align: center;
+}
+
+.review {
+  text-align: center;
+  background-color: var(--background-color);
+}
+
+.texto {
+    text-align: center;
+}
+
+.baixo {
+    text-align: center;
+}
